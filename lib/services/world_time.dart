@@ -33,21 +33,3 @@ class WorldTime {
   }
 }
 
-
-/**
- * Documentation
- * Documenting the Icons and the Text
- * This is a reality check for the most of us
- * I am detecting the location in the text field in the jazz
-**/
-
-/**
- * Document
- * Retrofitting: Hater relationship
- * Text information and the reaction and the fact that
- * For the information and the intuition and the activity mannerism
- * Help for the app rebuild and recompilation process will be needed
- * If this project is going will take a while to manifest and the futures of
- * The entirety
-**/
-
